@@ -24,11 +24,17 @@ git clone https://github.com/yourusername/fizzbuzz.git
 ```
 2. No additional dependencies are required as this project uses only Python's built-in functionality.
 
+
 ## Usage
 To run the FizzBuzz program, simply execute the Python script:
+
+```bash
 python fizzbuzz.py
-```
+` ````
+
 Example output:
+
+` ````
 1
 2
 Fizz
@@ -44,9 +50,10 @@ Fizz
 13
 14
 FizzBuzz
-...
+` ````
 
-```
+
+
 ## How It Works
 The core logic of the program is implemented as follows:
 
