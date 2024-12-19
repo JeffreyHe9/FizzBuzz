@@ -51,8 +51,7 @@ Fizz
 14
 FizzBuzz
 ` ````
-
-
+```
 
 ## How It Works
 The core logic of the program is implemented as follows:
