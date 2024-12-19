@@ -20,7 +20,7 @@ This project implements the FizzBuzz challenge, a common programming task often 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fizzbuzz.git
+git clone https://github.com
 ```
 2. No additional dependencies are required as this project uses only Python's built-in functionality.
 
