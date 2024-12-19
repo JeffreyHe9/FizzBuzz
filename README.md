@@ -49,6 +49,8 @@ FizzBuzz
 ```
 ## How It Works
 The core logic of the program is implemented as follows:
+
+```python
 for num in range(1, 101):
     # "FizzBuzz" if number is divisible by both 3 and 5
     if num % 3 == 0 and num % 5 == 0:
@@ -62,14 +64,11 @@ for num in range(1, 101):
     # The number itself if none of above conditions met
     else:
         print(num)
-
 ```
 
-## Contributing
-Contributions are welcome! Here's how you can help:
+## Contribution
+Feel free to improve this implementation by:
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
+1. Suggesting improvements in code efficiency
+2. Adding comments for better code understanding
+3. Fixing any bugs you find
