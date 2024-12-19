@@ -23,3 +23,53 @@ This project implements the FizzBuzz challenge, a common programming task often 
 git clone https://github.com/yourusername/fizzbuzz.git
 ```
 2. No additional dependencies are required as this project uses only Python's built-in functionality.
+
+## Usage
+To run the FizzBuzz program, simply execute the Python script:
+python fizzbuzz.py
+```
+Example output:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...
+
+```
+## How It Works
+The core logic of the program is implemented as follows:
+for num in range(1, 101):
+    # "FizzBuzz" if number is divisible by both 3 and 5
+    if num % 3 == 0 and num % 5 == 0:
+        print("FizzBuzz")
+    # "Fizz" if divisible by 3
+    elif num % 3 == 0:
+        print("Fizz")
+    # "Buzz" if divisible by 5
+    elif num % 5 == 0:
+        print("Buzz")
+    # The number itself if none of above conditions met
+    else:
+        print(num)
+
+```
+
+## Contributing
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
