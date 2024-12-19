@@ -30,11 +30,9 @@ To run the FizzBuzz program, simply execute the Python script:
 
 ```bash
 python fizzbuzz.py
-` ````
 
 Example output:
 
-` ````
 1
 2
 Fizz
@@ -50,7 +48,6 @@ Fizz
 13
 14
 FizzBuzz
-` ````
 ```
 
 ## How It Works
