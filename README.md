@@ -8,7 +8,6 @@ A simple Python implementation of the classic FizzBuzz programming challenge tha
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This project implements the FizzBuzz challenge, a common programming task often used in software developer job interviews. The program iterates through numbers 1 to 100 and applies the following rules:
